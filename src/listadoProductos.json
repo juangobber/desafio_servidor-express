@@ -1,0 +1,12 @@
+[{"title":"Mate","description":"Un producto","price":2000,"thumbnail":"ruta de imagen","code":1122,"stock":20,"id":1},
+{"title":"Café","description":"Un producto","price":2000,"thumbnail":"ruta de imagen","code":1122,"stock":20,"id":2},
+{"title":"Harina","description":"Un producto","price":2000,"thumbnail":"ruta de imagen","code":1122,"stock":20,"id":3},
+{"title":"Palmitos","description":"Un producto","price":2000,"thumbnail":"ruta de imagen","code":1122,"stock":20,"id":4},
+{"title":"Yerba","description":"Un producto","price":2000,"thumbnail":"ruta de imagen","code":1122,"stock":20,"id":5},
+{"title":"Mermelada","description":"Un producto","price":2000,"thumbnail":"ruta de imagen","code":2233,"stock":20,"id":6},
+{"title":"Cacao","description":"Un producto","price":2000,"thumbnail":"ruta de imagen","code":3344,"stock":20,"id":7},
+{"title":"Picadillo","description":"Un producto","price":2000,"thumbnail":"ruta de imagen","code":4455,"stock":20,"id":8},
+{"title":"Paté","description":"Un producto","price":2000,"thumbnail":"ruta de imagen","code":5566,"stock":20,"id":9},
+{"title":"Caballa","description":"Un producto","price":2000,"thumbnail":"ruta de imagen","code":6677,"stock":20,"id":10}
+]
+
